@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Tom Wilkinson: The Full Monty actor dies at 75",
+    "description": "The British star won a Bafta for the hit 1997 film, and was nominated for two Oscars.",
+    "url": "https://www.bbc.co.uk/news/entertainment-arts-65823240",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A84E/production/_130068034_tomwilkinsonjpeg.jpgcrop.jpg",
+    "publishedAt": "2023-12-30T17:22:16.1907516Z",
+    "content": "British actor Tom Wilkinson, known for films like The Full Monty, Shakespeare In Love and The Best Exotic Marigold Hotel, has died at the age of 75.\r\nWilkinson won a Bafta for 1997's The Full Monty, … [+4172 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Israel-Gaza war: Displaced Gazans 'living in the open', UN says",
+    "description": "The southern city of Rafah saw an influx of 100,000 people seeking shelter in recent days, UN says.",
+    "url": "https://www.bbc.co.uk/news/world-middle-east-67849224",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14FC5/production/_132175958_d3a5768dfa2b4898a510380369fa9b74aeba29bd0_0_3744_25011000x668.jpg",
+    "publishedAt": "2023-12-30T16:37:22.8946943Z",
+    "content": "Many displaced Gazans are living \"in the open, in the parks,\" Juliette Touma of the UN relief agency for Palestinian refugees, UNRWA, has told the BBC.\r\nAccording to the UN's humanitarian office (OCH… [+2767 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: Russia says 14 dead after Ukraine strikes border city Belgorod",
+    "description": "Russian officials say two children are among the dead in Belgorod; Ukraine has not yet commented.",
+    "url": "https://www.bbc.co.uk/news/live/world-europe-67838996",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2023-12-30T15:37:17.8941711Z",
+    "content": "The Russian ministry of defence has put out a statement reacting to the Belgorod attack.\r\nIt says the strikes were carried out with Ukrainian Olkha and Czech-made Vampire rockets fitted with cluster-… [+1005 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Dashcam footage shows strike hit Russian city",
+    "description": "Russia's emergency ministry says 14 people including two children have been killed in Belgorod.",
+    "url": "https://www.bbc.co.uk/news/world-europe-67848137",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/912F/production/_132176173_p0h26zv5.jpg",
+    "publishedAt": "2023-12-30T15:22:17.1331381Z",
+    "content": "A series of strikes has hit Russian regions near the Ukrainian border. \r\nThe emergency ministry says 14 people including two children have been killed in the city of Belgorod, and more than 100 injur… [+89 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Paula Abdul sues Nigel Lythgoe over alleged sexual assault - US media",
+    "description": "The American singer alleges multiple instances of assault while the pair worked together, US media says.",
+    "url": "https://www.bbc.co.uk/news/world-67848608",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13215/production/_132175387_gettyimages-1467470338.jpg",
+    "publishedAt": "2023-12-30T15:07:18.4260116Z",
+    "content": "American singer and dancer Paula Abdul is suing television executive heavyweight Nigel Lythgoe over alleged sexual assault, according to US media.\r\nMs Abdul's lawsuit claims multiple instances of ass… [+2340 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "'Shooting star' streaks through the night sky",
+    "description": "Videos posted on social media show what appears to be a meteor flying over England.",
+    "url": "https://www.bbc.co.uk/news/uk-67848135",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17739/production/_132175069_p0h26t6z.jpg",
+    "publishedAt": "2023-12-30T14:22:16.0656921Z",
+    "content": "Videos posted on social media show what appears to be a meteor flying over England in the early hours of Saturday morning. \r\nMany others commented that they had seen the phenomenon, from locations in… [+35 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Kai Zhuang: Police in Utah say Chinese exchange student kidnapped",
+    "description": "Officers in Utah say they believe Kai Zhuang, 17, is being held against his will for ransom.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-67847465",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6C63/production/_132174772_kai-zhuang_credit-riverdale-police-department_myy23r.jpg",
+    "publishedAt": "2023-12-30T11:07:17.5343713Z",
+    "content": "Police in the US are searching for a teenage Chinese exchange student they believe to have been kidnapped.\r\nKai Zhuang, 17, was last seen on Wednesday at his home in the town of Riverdale in Utah.\r\nP… [+1192 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Can Donald Trump still run for president after Maine and Colorado rulings?",
+    "description": "The states' rulings could have implications for his 2024 bid, but the Supreme Court is expected to weigh in.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-67770912",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B532/production/_132168364_trump-index-reuters.jpg",
+    "publishedAt": "2023-12-30T10:37:14.2541462Z",
+    "content": "Donald Trump has been disqualified from running as a presidential candidate in two states, Colorado and Maine. So what does it mean for next year's general election?\r\nMr Trump is the clear frontrunne… [+5874 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Surfers take on giant waves as storm hits California",
+    "description": "Waves as tall as 70ft have been surfed at the notorious break known as Mavericks.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-67845251",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/047B/production/_132174110_capture.jpg",
+    "publishedAt": "2023-12-30T07:07:15.0503158Z",
+    "content": "Media caption, Surfers raced to California's famous Mavericks Beach surf spot to ride the huge waves\r\nThe world's best big wave surfers are descending on California to catch the biggest storm swells … [+3491 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Why 2023 was an uncomfortable year for the West",
+    "description": "This year has seen a series of setbacks, writes Frank Gardner, but there are also glimmers of hope.",
+    "url": "https://www.bbc.co.uk/news/world-67845056",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18085/production/_132173489_kjputin.jpg",
+    "publishedAt": "2023-12-30T01:37:12.3206191Z",
+    "content": "The past 12 months have seen a number of setbacks for the US, Europe and other major democracies on the international politics stage. None has been disastrous, for now. But they point to a shifting b… [+10615 chars]"
+    }
+    ]
+    }
